@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b068cde-908f-4c2d-a809-e47217363526" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b068cde-908f-4c2d-a809-e47217363526" name="Default Changelist" comment="I add some line on the code.">
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +76,35 @@
       <option name="presentableId" value="Default" />
       <updated>1617306895632</updated>
       <workItem from="1617306896740" duration="3666000" />
-      <workItem from="1617405734536" duration="990000" />
+      <workItem from="1617405734536" duration="1292000" />
     </task>
+    <task id="LOCAL-00001" summary="I add some line on the code.">
+      <created>1617406746118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617406746118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I add some line on the code." />
+    <option name="LAST_COMMIT_MESSAGE" value="I add some line on the code." />
   </component>
   <component name="WindowStateProjectService">
     <state x="764" y="712" key="Github.ShareDialog" timestamp="1617307735134">
@@ -140,10 +179,14 @@
       <screen x="0" y="0" width="1920" height="1045" />
     </state>
     <state width="1899" height="344" key="GridCell.Tab.3.right/0.0.1920.1045@0.0.1920.1045" timestamp="1617338349029" />
-    <state x="555" y="517" width="806" height="525" key="Vcs.Push.Dialog.v2" timestamp="1617307788504">
+    <state x="555" y="517" width="806" height="525" key="Vcs.Push.Dialog.v2" timestamp="1617406751000">
       <screen x="0" y="0" width="1920" height="1045" />
     </state>
-    <state x="555" y="517" width="806" height="525" key="Vcs.Push.Dialog.v2/0.0.1920.1045@0.0.1920.1045" timestamp="1617307788504" />
+    <state x="555" y="517" width="806" height="525" key="Vcs.Push.Dialog.v2/0.0.1920.1045@0.0.1920.1045" timestamp="1617406751000" />
+    <state x="719" y="440" width="477" height="165" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617406730543">
+      <screen x="0" y="0" width="1920" height="1045" />
+    </state>
+    <state x="719" y="440" width="477" height="165" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1045@0.0.1920.1045" timestamp="1617406730543" />
     <state x="623" y="366" width="672" height="678" key="search.everywhere.popup" timestamp="1617306999374">
       <screen x="0" y="0" width="1920" height="1045" />
     </state>
