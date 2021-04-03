@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AppliedVisualDesign2/.idea/AppliedVisualDesign2.iml" filepath="$PROJECT_DIR$/../AppliedVisualDesign2/.idea/AppliedVisualDesign2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/appliedVisualDesign.iml" filepath="$PROJECT_DIR$/.idea/appliedVisualDesign.iml" />
     </modules>
   </component>
